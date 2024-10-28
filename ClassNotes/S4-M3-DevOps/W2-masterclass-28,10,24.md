@@ -1,6 +1,6 @@
 ## Capstone checkpoint
 
-[!CAUTION]
+> [!CAUTION]
 #### Puntos a revisar
 - Estado del proyecto
 - Requisitos claros?
